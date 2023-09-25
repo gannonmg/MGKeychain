@@ -1,3 +1,3 @@
 # MGKeychain
 
-A description of this package.
+Swift Package to quickly integrate secure storage with Apple Keychain Services into your iOS application.
